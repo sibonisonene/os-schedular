@@ -20,8 +20,6 @@ def main():
         return 1
 
 
-
-
     """
     TODO Your Algorithm - assign your output to the output variable
     """
