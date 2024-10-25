@@ -23,9 +23,13 @@ def main():
     """
     TODO Your Algorithm - assign your output to the output variable
     """
+    NumberofProcesses = int(data.strip())
+    dataLine = [line.strip().split(',') for line in file]
 
-
-
+    Process_Name [] = (row[0] for row in data) # type: ignore
+    Process_Runtime [] = (row[1] for row in data)# type: ignore
+    Process_ArrivalTime [] # type: ignore
+    IO_Frequency [] # type: ignore
 
     output = "AB AC AB !AD BA CB !BL BX AB" #Example output
     
