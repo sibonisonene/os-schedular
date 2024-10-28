@@ -1,7 +1,7 @@
 #CUSTOMISE HERE
 # =====================================================================
 #Enter your student number here
-student_num=studentnum
+student_num="2434209"
 #Choose a data file between {easy, medium, hard, extreme}
 data_file="easy" 
 # =====================================================================
